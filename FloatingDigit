@@ -1,5 +1,3 @@
-//Program that reads in two floating-point numbers and tests whether 
-//they are the same up to three decimal places.
 import java.util.Scanner;
 import java.lang.Math;
 
@@ -21,8 +19,3 @@ public class FloatingDigit
 	    }
 	}
 }
-//Output:
-//Enter 1st number: 3.4562
-//
-//Enter 2nd number: 2.4567
-//Entered numbers are different
